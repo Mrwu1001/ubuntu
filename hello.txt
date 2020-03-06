@@ -2,3 +2,5 @@ hello github world
 this is my first time to send an file through git in my mac
 best wishes to you
 3/6/2020
+
+this is the first change to test the uses of git in Mac
